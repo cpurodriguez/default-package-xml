@@ -74,10 +74,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>CampaignInfluenceModel</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>CaseSubjectParticle</name>
     </types>
     <types>
@@ -323,10 +319,6 @@
     <types>
         <members>*</members>
         <name>NetworkBranding</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>PardotTenant</name>
     </types>
     <types>
         <members>*</members>
