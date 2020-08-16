@@ -70,10 +70,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>CaseSubjectParticle</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Certificate</name>
     </types>
     <types>
@@ -211,14 +207,6 @@
     <types>
         <members>*</members>
         <name>EscalationRules</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EventDelivery</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EventSubscription</name>
     </types>
     <types>
         <members>*</members>
@@ -460,5 +448,5 @@
         <members>*</members>
         <name>Settings</name>
     </types>
-    <version>44.0</version>
+    <version>49.0</version>
 </Package>
